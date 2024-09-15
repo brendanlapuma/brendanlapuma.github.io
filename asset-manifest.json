@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb28ad7e.css",
+    "main.js": "/static/js/main.f44e2f5e.js",
+    "static/media/470proj.pdf": "/static/media/470proj.8c55883e95d49bf32318.pdf",
+    "index.html": "/index.html",
+    "static/media/blob-haikei.svg": "/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.cb28ad7e.css.map": "/static/css/main.cb28ad7e.css.map",
+    "main.f44e2f5e.js.map": "/static/js/main.f44e2f5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb28ad7e.css",
+    "static/js/main.f44e2f5e.js"
+  ]
+}
